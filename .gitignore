@@ -1,0 +1,3 @@
+# CLion things.
+.idea
+cmake-build-debug/
